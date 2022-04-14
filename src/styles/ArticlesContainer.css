@@ -1,0 +1,32 @@
+.article-details {
+  margin: 3%;
+  margin-left: 7%;
+  padding: 3%;
+  display: flex;
+  border: 2px solid grey;
+  border-radius: 20px;
+  justify-content: space-between;
+  width: 70%;
+  box-shadow: 10px 5px 5px #000000;
+  background-color: #c5d5cb;
+  color: #2f3130;
+}
+
+.article-container {
+  margin-left: 7.5%;
+}
+
+
+  /* .headline-text {
+    display: flex;
+    flex-direction: column;
+  } */
+
+img {
+  height: 18%;
+  width: 20%;
+}
+
+h2 {
+  margin-right: 4%;
+}
