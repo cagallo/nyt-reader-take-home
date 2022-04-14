@@ -1,0 +1,42 @@
+button {
+  margin: 1.5%;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Tinos', serif;
+}
+
+button:hover {
+  background-color:lightgrey;
+}
+
+.hero-image {
+  height: 50%;
+  width: 50%;
+}
+
+.single-article-container {
+  border: 2px solid grey;
+  width: 80%;
+  margin-left: 9%;
+  background-color: #c5d5cb;
+  overflow: auto;
+  padding: 1%;
+  box-shadow: 10px 5px 5px #000000;
+  margin-bottom: 30px;
+}
+
+.single-page-title {
+  font-size: 26px;
+  font-weight: bolder;
+}
+
+.byline {
+  font-weight: bolder;
+}
+
+.article-caption {
+  font-size: 12px;
+}
+
+.article-text {
+  text-align: left;
+}
