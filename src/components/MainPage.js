@@ -17,10 +17,8 @@ const MainPage = () => {
     )
   })  
 
-  const selectCategory = (event) => {
-  console.log(event.target.value)
-  setCategory(event.target.value)
-  }
+  const selectCategory = (event) => setCategory(event.target.value)
+  
 
   const fetchArticles = async(category) => {
     category = category.toLowerCase().replace(' ', '')

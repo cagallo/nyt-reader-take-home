@@ -10,24 +10,15 @@ const ArticlesContainer = ({ articles }) => {
   let displayedArticles;
   displayedArticles = articles.map((article, i) => {
     let id;
-    console.log(article)
     if (!article.short_url.length) {
       const url = article.url.split('/')
-      console.log(url)
       id = url[url.length - 1].split('.')[0]
-      console.log(id)
     } else {
       const shortURL = article.short_url.split('/')
-      console.log(shortURL)
       id = shortURL[shortURL.length - 1]
-      console.log(id)
     }
-    console.log(article.multimedia);
-    console.log(article.title);
-    console.log(!article.multimedia);
     
     if (!article.multimedia) {
-      console.log("here")
       return <Link 
       key={i}
       className="article-details" 
