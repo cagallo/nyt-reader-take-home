@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+# Breaking News with Chezzy
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a simple React application that utilizes the NYT Top Stories API to generate up-to-date stories from a variety of different categories. A user can filter for a certain category and visit the NYT website to view the rest of the story if interested. 
 
-## Available Scripts
+The application was a take-home challenged provided by the Turing School of Software and Design and took approximately 8 hours to complete.
 
-In the project directory, you can run:
+- NYT Top Stories API Overview: [here](https://developer.nytimes.com/docs/top-stories-product/1/overview)
+- Take-Home spec: [here](https://mod4.turing.edu/projects/take_home/take_home_fe)
 
-### `npm start`
+## Technologies Used
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- React
+- React Router v6
+- Cypress
+- HTML5
+- CSS3
+- titleCase 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Directions
 
-### `npm test`
+- User is presented with 'Home' news stories on page load, they may scroll through those news stories, select a new category from the dropdown menu or click on a story for more information.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img width="1440" alt="Screen Shot 2022-04-15 at 9 54 13 AM" src="https://user-images.githubusercontent.com/78453792/163592654-c3d4ac66-0c92-4a4e-90a9-54601ea50666.png">
 
-### `npm run build`
+On the single article page, the user can view a article's title, byline, photo, caption and/or abstract summary. They are able to click on the 'read more at NYTimes' button to read the full article.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<img width="1440" alt="Screen Shot 2022-04-15 at 9 54 03 AM" src="https://user-images.githubusercontent.com/78453792/163592782-9c89aeba-e14c-4cb3-bf41-a1d3c54cca80.png">
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Testing 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Cypress was used for E2E and integration testing. To test the application: run `npm run cypress` and you will have a window open that gives you the ability to click on each test and see whether they pass. Make sure you've run `npm start` in a separate terminal tab before you begin the testing. 
 
-### `npm run eject`
+<img width="1131" alt="Screen Shot 2022-04-15 at 9 49 57 AM" src="https://user-images.githubusercontent.com/78453792/163592055-ae3897b3-d8dd-4b8b-9e3c-b55b0d1fa665.png">
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Future Iterations
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Responsive Design
+- Better error handling
+- Deployment
+- Improve UI
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Accessibility
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+This project is 100 percent accessible according to Lighthouse Accessibility Audit:
 
-## Learn More
+<img width="1385" alt="Screen Shot 2022-04-15 at 10 01 45 AM" src="https://user-images.githubusercontent.com/78453792/163593300-3532c0c8-4f3c-4884-abed-cfaed31f7031.png">
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Author
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- [Chez Gallo](https://github.com/cagallo)
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
