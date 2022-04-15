@@ -1,0 +1,258 @@
+{
+  "results": [
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Putin admits sanctions have hurt Russia’s oil and gas sector.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2022/04/14/world/ukraine-russia-war-news/putin-admits-sanctions-have-hurt-russias-oil-and-gas-sector",
+        "uri": "nyt://article/c90db196-bb53-5da2-a9b8-dbad531f5ad9",
+        "byline": "By Dan Bilefsky",
+        "item_type": "Article",
+        "updated_date": "2022-04-14T22:45:02-04:00",
+        "created_date": "2022-04-14T15:05:00-04:00",
+        "published_date": "2022-04-14T15:05:00-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2022/04/14/multimedia/14ukraine-blog-Putinoil-topart/14ukraine-blog-Putinoil-topart-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A refinery in Omsk, Russia,",
+                "copyright": "Alexey Malgavko/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2022/04/14/multimedia/14ukraine-blog-Putinoil-topart/14ukraine-blog-Putinoil-topart-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A refinery in Omsk, Russia,",
+                "copyright": "Alexey Malgavko/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2022/04/14/multimedia/14ukraine-blog-Putinoil-topart/14ukraine-blog-Putinoil-topart-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A refinery in Omsk, Russia,",
+                "copyright": "Alexey Malgavko/Reuters"
+            }
+        ],
+        "short_url": "https://nyti.ms/3JIhyuk"
+    },
+    {
+        "section": "arts",
+        "subsection": "",
+        "title": "War Brings New Iron Curtain Down on Russia’s Storied Ballet Stages",
+        "abstract": "Ballet has long been a symbol of Russian culture. Now it is becoming a symbol of Russian isolation.",
+        "url": "https://www.nytimes.com/2022/04/15/arts/olga-smirnova-ballet-bolshoi-ukraine-war.html",
+        "uri": "nyt://article/525c6357-ef2c-5df6-bb79-d4933450cae5",
+        "byline": "By Alex Marshall",
+        "item_type": "Article",
+        "updated_date": "2022-04-15T01:00:06-04:00",
+        "created_date": "2022-04-15T01:00:06-04:00",
+        "published_date": "2022-04-15T01:00:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Dancing",
+            "Russian Invasion of Ukraine (2022)",
+            "Raymonda (Ballet)",
+            "Spartacus (Ballet)"
+        ],
+        "org_facet": [
+            "Bolshoi Theater",
+            "Dutch National Ballet",
+            "Mariinsky Ballet"
+        ],
+        "per_facet": [
+            "Smirnova, Olga",
+            "Urin, Vladimir",
+            "Ratmansky, Alexei",
+            "Maillot, Jean-Christophe"
+        ],
+        "geo_facet": [
+            "Amsterdam (Netherlands)",
+            "Netherlands",
+            "Moscow (Russia)",
+            "Russia",
+            "St Petersburg (Russia)",
+            "Ukraine"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2022/04/12/arts/00smirnova-ballet-7/00smirnova-ballet-7-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1363,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The star ballerina Olga Smirnova with Semyon Chudin at the Bolshoi Theater in Moscow in 2014. ",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2022/04/12/arts/00smirnova-ballet-7/00smirnova-ballet-7-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The star ballerina Olga Smirnova with Semyon Chudin at the Bolshoi Theater in Moscow in 2014. ",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2022/04/12/arts/00smirnova-ballet-7/00smirnova-ballet-7-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The star ballerina Olga Smirnova with Semyon Chudin at the Bolshoi Theater in Moscow in 2014. ",
+                "copyright": "James Hill for The New York Times"
+            }
+        ],
+        "short_url": "https://nyti.ms/3KMyFww"
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "C.I.A. Director Airs Concern That Putin Might Turn to Nuclear Weapons",
+        "abstract": "William J. Burns, the director of the Central Intelligence Agency, cautioned that he had seen no “practical evidence” that would suggest such a move was imminent.",
+        "url": "https://www.nytimes.com/2022/04/14/us/politics/putin-nuclear-weapons.html",
+        "uri": "nyt://article/84e10ebd-7b49-54fc-8e83-56140d5582c2",
+        "byline": "By David E. Sanger and Julian E. Barnes",
+        "item_type": "Article",
+        "updated_date": "2022-04-14T22:51:31-04:00",
+        "created_date": "2022-04-14T19:40:46-04:00",
+        "published_date": "2022-04-14T19:40:46-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "War and Armed Conflicts",
+            "Nuclear Weapons",
+            "Russian Invasion of Ukraine (2022)",
+            "United States International Relations"
+        ],
+        "org_facet": [
+            "Central Intelligence Agency"
+        ],
+        "per_facet": [
+            "Burns, William J",
+            "Putin, Vladimir V",
+            "Sullivan, Jacob J (1976- )"
+        ],
+        "geo_facet": [
+            "Ukraine",
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2022/04/14/us/politics/14dc-intel-1/merlin_204820098_a2e0b33a-ccb7-40d1-be89-8ac76da9fabb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An apartment building in Vasylkiv, Ukraine, was destroyed by Russian missiles in February.",
+                "copyright": "Ivor Prickett for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2022/04/14/us/politics/14dc-intel-1/merlin_204820098_a2e0b33a-ccb7-40d1-be89-8ac76da9fabb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An apartment building in Vasylkiv, Ukraine, was destroyed by Russian missiles in February.",
+                "copyright": "Ivor Prickett for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2022/04/14/us/politics/14dc-intel-1/14dc-intel-1-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An apartment building in Vasylkiv, Ukraine, was destroyed by Russian missiles in February.",
+                "copyright": "Ivor Prickett for The New York Times"
+            }
+        ],
+        "short_url": "https://nyti.ms/3KFMNaK"
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Le Pen Backs NATO-Russia Reconciliation and Reduced French Role in Alliance",
+        "abstract": "Marine Le Pen, the far-right candidate for the French presidency, offered a worldview reminiscent of the Trump presidency. “No submission to an American protectorate on European soil,” she said.",
+        "url": "https://www.nytimes.com/2022/04/13/world/europe/le-pen-nato-russia-germany.html",
+        "uri": "nyt://article/aff0b585-020d-570a-b2e0-7c034af98fb1",
+        "byline": "By Roger Cohen",
+        "item_type": "Article",
+        "updated_date": "2022-04-14T13:51:01-04:00",
+        "created_date": "2022-04-13T16:49:58-04:00",
+        "published_date": "2022-04-13T16:49:58-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Elections"
+        ],
+        "org_facet": [
+            "North Atlantic Treaty Organization"
+        ],
+        "per_facet": [
+            "Le Pen, Marine",
+            "Macron, Emmanuel (1977- )"
+        ],
+        "geo_facet": [
+            "France",
+            "Europe"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2022/04/13/world/13lepen-world-1/merlin_205439529_f90177ba-6de0-46e7-b8c4-4f69faa73ae4-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1363,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Marine Le Pen arriving to hold a news conference on diplomacy and foreign policy in Paris on Wednesday.",
+                "copyright": "Emmanuel Dunand/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2022/04/13/world/13lepen-world-1/13lepen-world-1-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Marine Le Pen arriving to hold a news conference on diplomacy and foreign policy in Paris on Wednesday.",
+                "copyright": "Emmanuel Dunand/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2022/04/13/world/13lepen-world-1/13lepen-world-1-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Marine Le Pen arriving to hold a news conference on diplomacy and foreign policy in Paris on Wednesday.",
+                "copyright": "Emmanuel Dunand/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": "https://nyti.ms/3KHmwcd"
+    }
+  ]
+}
