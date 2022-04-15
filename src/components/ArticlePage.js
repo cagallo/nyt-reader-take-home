@@ -1,10 +1,9 @@
 import { useLocation, useNavigate } from 'react-router-dom'
 import '../styles/ArticlePage.css'
 
-
 const ArticlePage = () => {
   const location = useLocation()
-  const navigate = useNavigate();
+  const navigate = useNavigate()
   const article  = location.state
 
   return ( 
